@@ -1,0 +1,20 @@
+Skrótem PC oznaczamy...?
+A) Komputery osobiste
+B) Komputery domowe
+C) Komputery firmowe
+A
+CPU to inaczej...?
+A) Karta graficzna
+B) Pamiêæ operacyjna
+C) Procesor
+C
+P³yta g³ówna, to inaczej...?
+A) CPU
+B) EPU
+C) GPU
+B
+Oprogramowanie, to inaczej...?
+A) hardware
+B) freeware
+C) software
+C

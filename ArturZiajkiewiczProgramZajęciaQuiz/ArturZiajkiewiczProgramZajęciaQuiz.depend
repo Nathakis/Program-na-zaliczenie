@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1547240945 source:c:\users\nathakis\documents\programy\arturziajkiewiczprogramzajêciaquiz\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	<string>
+	<algorithm>
+
